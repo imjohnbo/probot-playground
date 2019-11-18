@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "@zeit/ncc": "^0.20.5",
-    "probot": "^9.5.1"
+    "probot": "9.6.5"
   }
 }
